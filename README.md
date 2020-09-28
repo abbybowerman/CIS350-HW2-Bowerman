@@ -1,4 +1,4 @@
-# Abigail Bowerman
+# Abby Bowerman
 
 Some of my interests are:
 * Writing computer programs, particularly in Python
