@@ -23,4 +23,14 @@ public class SimpleCalculatorTest {
         SimpleCalculator calc = new SimpleCalculator();
         assertEquals(calc.div(8, 2), 4);
     }
+    @Test
+    public void testMod() {
+        SimpleCalculator calc = new SimpleCalculator();
+        assertEquals(calc.mod(10, 7), 3);
+    }
+    @Test
+    public void testPow() {
+        SimpleCalculator calc = new SimpleCalculator();
+        assertEquals(calc.pow(7, 3), 343);
+    }
 }

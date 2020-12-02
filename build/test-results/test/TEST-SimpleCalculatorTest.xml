@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SimpleCalculatorTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-12-02T00:58:53" hostname="DESKTOP-SDK7KG2" time="0.007">
+<testsuite name="SimpleCalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-12-02T01:32:01" hostname="DESKTOP-SDK7KG2" time="0.016">
   <properties/>
   <testcase name="testAdd" classname="SimpleCalculatorTest" time="0.005"/>
-  <testcase name="testDiv" classname="SimpleCalculatorTest" time="0.0"/>
+  <testcase name="testDiv" classname="SimpleCalculatorTest" time="0.001"/>
+  <testcase name="testMod" classname="SimpleCalculatorTest" time="0.0"/>
   <testcase name="testMul" classname="SimpleCalculatorTest" time="0.0"/>
-  <testcase name="testSub" classname="SimpleCalculatorTest" time="0.0"/>
+  <testcase name="testPow" classname="SimpleCalculatorTest" time="0.001"/>
+  <testcase name="testSub" classname="SimpleCalculatorTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
